@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World! its nory test ");
         }
     }
 }
